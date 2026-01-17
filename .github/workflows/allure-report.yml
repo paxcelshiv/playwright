@@ -7,7 +7,7 @@ on:
 jobs:
   test:
     timeout-minutes: 60
-    runs-on: window-latest
+    runs-on: ubuntu-latest
     steps:
     # Step 1: Checkout the repo
       - uses: actions/checkout@v4

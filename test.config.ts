@@ -1,5 +1,5 @@
 export class TestConfig{
-appUrl="http://localhost/opencart/upload/"
+appUrl="https://ultimateqa.com/complicated-page"
 //valid login credentials- create your own login account
 email="pavanol@abc.com"
 password="test@123"
